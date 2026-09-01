@@ -1,0 +1,55 @@
+description,category
+I cannot login to my university account,Account
+My password is not working,Account
+I forgot my account password,Account
+My account is locked,Account
+I cannot access my email account,Account
+The login page says invalid credentials,Account
+I need to reset my password,Account
+My university account was disabled,Account
+I cannot sign in to the portal,Account
+My username is not recognized,Account
+
+The WiFi is not working,Network
+I cannot connect to the university network,Network
+The internet connection is very slow,Network
+The network keeps disconnecting,Network
+I have no internet access,Network
+The campus WiFi is unavailable,Network
+My laptop cannot connect to WiFi,Network
+The network connection drops every few minutes,Network
+I cannot access websites on the university network,Network
+The internet is not working in the lab,Network
+
+The application will not open,Software
+The program keeps crashing,Software
+I cannot install the software,Software
+The application shows an error message,Software
+The software freezes when I use it,Software
+The program is not responding,Software
+I cannot update the application,Software
+The software stopped working after an update,Software
+The application closes unexpectedly,Software
+I have a problem running the program,Software
+
+My laptop screen is broken,Hardware
+The keyboard is not working,Hardware
+My mouse is not working,Hardware
+The computer will not turn on,Hardware
+The laptop battery is not charging,Hardware
+The monitor has no display,Hardware
+The printer is not working,Hardware
+My laptop is overheating,Hardware
+The computer makes a strange noise,Hardware
+The USB port is not working,Hardware
+
+I cannot access the student portal,Academic System
+I cannot register for my courses,Academic System
+My grades are not showing in the system,Academic System
+The registration system is not working,Academic System
+I cannot submit my assignment online,Academic System
+My course is missing from the portal,Academic System
+I cannot access the exam system,Academic System
+The academic portal shows an error,Academic System
+I cannot view my class schedule,Academic System
+The university learning system is unavailable,Academic System
